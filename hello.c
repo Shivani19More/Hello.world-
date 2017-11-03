@@ -1,10 +1,7 @@
 #include(stdio.h)
 void main ()
 {
-printf("hello world...!!!);
-       
-  
-  
-  
-printf("\nthis is the basic c program");
-       }
+print("hello world....!!!");
+
+printf("\this is the basic c program");
+}
